@@ -7,7 +7,7 @@ test.beforeEach(async ({ page }) => {
 
 const EMAILS = [
   'blabla@123',
-  `testmarijaspasovsk@gmail.com`
+  `testmarijaspasovska123@gmail.com`
 ];
 
 const LAST_NAMES = [
